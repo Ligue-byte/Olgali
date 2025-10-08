@@ -1,0 +1,123 @@
+<prompt>
+
+## 🏢 Context
+<context>
+  <![CDATA[
+  Company: a large corporation with 15,000 employees, market leader in SaaS products for businesses.
+  Specialization: electronic document management and reporting, #1 in the region.
+  Client base: 3 million business clients.
+  You have received: document attached with a product description
+  Task: expand from the Russian market into the Kazakhstan market.
+  ]]>
+</context>
+
+## 🎯 Research Goal
+<goal>
+  <![CDATA[
+  1. Conduct a go-to-market strategy research assignment for Kontur.Tax Monitoring
+  2. Identify what capabilities are required to implement a go-to-market strategy for entering Kazakhstan with the product Kontur.Tax Monitoring
+  3. Discover the "unfair" competitive advantages used by Kontur.Tax Monitoring in Russia, and define which of them should adopt for Kazakhstan market entry.
+  ]]>
+</goal>
+
+## 📌 Research Requirements
+<requirements>
+  <![CDATA[
+  1. Target market definition and segmentation.
+     TAM/SAM/SOM (market size).
+     Buyer persona (decision makers).
+     Segments with high government regulation and opportunities for non-competitive entry.
+  2. Competitor analysis and positioning in Kazakhstan.
+     Competitor map: direct, indirect, alternatives.
+     USP and key message.
+  3. Product strategy.
+     Pricing (monetization models).
+     Packaging (product versions, tariff plans).
+  4. Marketing strategy.
+     Promotion channels: digital, offline, partnerships.
+     Mandatory channels involving regulators: government bodies, state-owned enterprises.
+     Content, PR, events, lead generation.
+  5. Sales and distribution strategy.
+     Channels: direct sales, resellers, online channels.
+     Work through ecosystems, government agencies, akimats.
+  6. Execution.
+     KPI and OKR to reach a SOM market size.
+     Milestones and success metrics.
+     Risks and contingency plan.
+  ]]>
+</requirements>
+
+## 🔎 Niches to Analyze
+<niches>
+  <![CDATA[
+  Government and businesses companies with high tax payments and significant assets or with special status or participating in government programs. 
+  They require prompt and transparent oversight by the Federal Tax Service and the minimization of tax risks and audits.
+  ]]>
+</niches>
+
+
+## 🧪 Methodology
+<methodology>
+  <![CDATA[
+  1. Documentary research: analysis of the Kazakhstan Tax Code, "Digitalization" law, procurement regulations.
+  2. Open data analysis: stat.gov.kz, eGov.kz, Ministry of Digital Development, procurement portals.
+  3. Competitor analysis: Kazakh and Russian SaaS
+  4. Qualitative sources: user interviews and reviews, Softline and Directum case studies.
+  5. Quantitative analytics: TAM/SAM/SOM, based on enterprises and government structures.
+  6. Scenario mapping: JTBD scenarios and needs mapping.
+  7. Benchmarking: comparison with 1C Налоговый мониторинг, Сбис Налоговый мониторинг, VC Tax Compliance
+  8. SWOT + risk map: entry points and risk assessment.
+  ]]>
+</methodology>
+
+## 📦 Deliverables
+<artifacts>
+  <![CDATA[
+  1. Research report in PDF (structured by blocks).
+  2. TAM/SAM/SOM market map with figures.
+  3. JTBD maps per segment.
+  4. Competitor matrix (direct, indirect, alternatives).
+  5. Scenarios of "unfair" competitive advantages.
+  6. Promotion channels map (including regulatory channels).
+  7. Recommendations on KPI and GTM metrics.
+  ]]>
+</artifacts>
+
+## 🔗 Links
+<links>
+  <![CDATA[
+  - stat.gov.kz (Kazakhstan statistics)
+  - egov.kz (electronic government)
+  - goszakup.gov.kz (public procurement portal)
+  - documentolog.kz (electronic document management)
+  - uchet.kz (accounting and reporting)
+  - kyc.kz (KYC solutions)
+  - komra.kz (compliance and risks)
+  - softline.com, directum.ru (solution reviews)
+  - https://kgd.gov.kz/ru/content/nalogovyy-monitoring-16 
+  - https://kgd.gov.kz/ru/(official websites, press releases)
+  ]]>
+</links>
+
+## ✅ DoD — Definition of Done
+<dod>
+  <![CDATA[
+  1. Research must be prepared strictly in Russian.
+  2. Every section (Context, Goal, Requirements, Niches, JTBD, Methodology, Deliverables, Links) must include concrete data. No assumptions or unsupported statements.
+  3. TAM/SAM/SOM calculated and provided.
+  4. Minimum 3 JTBD scenarios per niche.
+  5. Competitor map includes at least 4 players (Kazakhstan + international).
+  6. At least 5+ "unfair" competitive advantages described.
+  7. KPI/OKR and milestones for GTM provided.
+  8. Risk list and contingency plan included.
+  9. Final report suitable for C-level usage.
+  ]]>
+</dod>
+
+<condition>
+  Provide answers for the user in Russian
+Если модель не уверена > 10 % — она обязана задать уточняющие вопросы, а не выдумывать.
+Отвечай «Я не знаю», если данных нет. Имитация уверенности запрещена.
+</condition>
+
+</prompt>
