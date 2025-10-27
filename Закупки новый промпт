@@ -1,0 +1,128 @@
+<prompt>
+
+## 🏢 Context
+<context>
+  <![CDATA[
+  Company: a large corporation with 15,000 employees, market leader in SaaS products for businesses.
+  Specialization: electronic document management and reporting, #1 in the region.
+  Client base: 3 million business clients.
+  Objective: expand from the Russian market into the Kazakhstan market.
+  Condition:
+- establish a joint venture with partners in Kazakhstan;
+- There are plans to open a new legal entity in Kazakhstan, establish an office, and set up sales;
+- partners are responsible for public relations and lobbying;
+- the company is responsible for product development, marketing, and sales.
+  ]]>
+</context>
+
+## <product>
+<![CDATA[
+Контур.Закупки
+  ]]>
+
+## 🎯 Research Goal
+<goal>
+  <![CDATA[
+  1. Analyze external environmental factors using the PEST analysis principle.
+  2. Identify what capabilities or conditions are required to implement a go-to-market strategy for expand Kazakhstan with the product.
+  3. Discover the "unfair" competitive advantages used by product in Russia, and define which of them should adopt to enter the Kazakhstan market.
+  4. Come up with competitive advantages that could become unfair in the Kazakhstan market.
+  5. Come up with government regulation and opportunities for non-competitive entry.
+  6. Analyze what modifications will need to be made to the product for the Kazakhstan market and how much resources this will require.
+  7. What lobbying support is needed for a quick launch.
+  
+]]>
+</goal>
+
+## 📌 Research Requirements
+<requirements>
+  <![CDATA[
+  1. Target market definition and segmentation.
+     TAM/SAM/SOM (market size) in calculated and provided in units and in money.
+     Buyer persona (decision makers).
+     Segments with high government regulation and opportunities for non-competitive entry.
+  2. Competitor analysis and positioning in Kazakhstan.
+     Competitor map: direct, indirect, alternatives.
+     USP and key message.
+  3. Product strategy.
+     Pricing (monetization models).
+     Packaging (product versions, tariff plans).
+  4. Product capabilities and technical components.
+      ]]>
+</requirements>
+
+## 📦 Deliverables
+<artifacts>
+  <![CDATA[
+  1. Research report in PDF (structured by blocks).
+  2. TAM/SAM/SOM market map with figures calculated and provided in units and in money.
+  3. Target audience segments.
+  4. JTBD maps per segment. Minimum 3 JTBD scenarios per niche.
+  5. Competitor matrix (direct, indirect, alternatives). Competitor map includes at least 4 players
+  6. segments that block competitors and Our winning segments
+  7. Analyze which parts of the product are ready for use in Kazakhstan right now, without any modifications.
+  8. What needs to be modified or created in the product for localization for Kazakhstan (using in-house development).
+  9. What needs to be developed or created using third-party solutions or integrations (government portals, data, Smart Bridge, etc.)
+  10. Necessary partnership with the government or partners for launch
+ 11. Bills and other government lobbying efforts required for market entry.
+ 12. General conclusion: product launch prospects and revenue stream ("quick" or "long" money).
+  ]]>
+</artifacts>
+
+## 🧪 Methodology
+<methodology>
+  <![CDATA[
+  1. Documentary research: analysis of the Kazakhstan Tax Code, "Digitalization" law, procurement regulations.
+  2. Open data analysis: stat.gov.kz, eGov.kz, Ministry of Digital Development, procurement portals.
+  3. Competitor analysis and product's website kontur.ru
+  4. Qualitative sources: user interviews and reviews, Softline and Directum case studies.
+  5. Quantitative analytics: TAM/SAM/SOM, based on enterprises and government structures.
+  6. Scenario mapping: JTBD scenarios and needs mapping.
+  7. SWOT + risk map: entry points and risk assessment.
+  8. Analysis of vendor websites and documentation  
+  9. Review of government sources: stat.gov.kz, egov.kz, data.egov.kz, “Digital Kazakhstan” publications, uchet.kz  
+  10. Collect company, SME and individual entrepreneur data (stat.gov.kz latest releases)  
+  11. Product teardowns: signatures, integrations, APIs, UX mechanics  
+  12. Formalization of JTBD scenarios based on product docs and guides  
+  ]]>
+</methodology>
+
+
+
+## 🔗 Links
+<links>
+  <![CDATA[
+ 1. document attached 
+ 2. Ссылки:
+ - stat.gov.kz (Kazakhstan statistics)
+  - egov.kz (electronic government)
+  - goszakup.gov.kz (public procurement portal)
+  - documentolog.kz (electronic document management)
+  - https://kontur.ru
+  - https://zakupki.kontur.ru
+  - zakup.sk.kz 
+  - torgi.erg.kz 
+  - tender.kazagro.kz
+  - ets-tender.kz
+  - uchet.kz (accounting and reporting)
+  - mybuh.kz
+  - kyc.kz (KYC solutions)
+  - komra.kz (compliance and risks)
+  - softline.com, directum.ru (solution reviews)
+  - https://kgd.gov.kz/ru/(official websites, press releases)
+ 
+  3.  Other sources that you find that can be considered reliable.
+  ]]>
+]]>
+</links>
+
+
+
+<condition>
+ Provide answers for the user in Russian
+1. Если модель не уверена > 10 % — она обязана задать уточняющие вопросы, а не выдумывать.
+2. Отвечай «Я не знаю», если данных нет. Имитация уверенности запрещена.
+3. Final report suitable for C-level usage.
+4. Final report is no more than 10 pages.
+</condition>
+</prompt>
