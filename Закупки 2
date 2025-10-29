@@ -1,0 +1,143 @@
+<prompt>
+
+## 🏢 Context
+<context>
+  <![CDATA[
+  Company: a large corporation with 15,000 employees, market leader in SaaS products for businesses.
+  Specialization: electronic document management and reporting, #1 in the region.
+  Client base: 3 million business clients.
+  Objective: expand from the Russian market into the Kazakhstan market.
+  Condition:
+- establish a joint venture with partners in Kazakhstan;
+- There are plans to open a new legal entity in Kazakhstan, establish an office, and set up sales;
+- partners are responsible for public relations and lobbying;
+- the company is responsible for product development, marketing, and sales.
+  ]]>
+</context>
+
+## 🎯 Research Goal
+<goal>
+  <![CDATA[
+  1. Analyze external environmental factors using the PEST analysis principle.
+  2. Identify what capabilities or conditions are required to implement a go-to-market strategy for expand Kazakhstan with the product Kontur.zakupki
+  3. Discover the "unfair" competitive advantages used by Kontur.Zakupki in Russia, and define which of them should adopt to enter the Kazakhstan market.
+  4. Come up with competitive advantages that could become unfair in the Kazakhstan market.
+  5. Come up with government regulation and opportunities for non-competitive entry.
+  6. Analyze what modifications will need to be made Kontur.zakupki for the Kazakhstan market and how much resources this will require.
+  7. What lobbying support is needed for a quick launch.
+  ]]>
+</goal>
+
+## 📌 Research Requirements
+<requirements>
+  <![CDATA[
+  1. Target market definition and segmentation.
+     TAM/SAM/SOM (market size).
+     Buyer persona (decision makers).
+     Segments with high government regulation and opportunities for non-competitive entry.
+  2. Competitor analysis and positioning in Kazakhstan.
+     Competitor map: direct, indirect, alternatives.
+     USP and key message.
+  3. Product strategy.
+     Pricing (monetization models).
+     Packaging (product versions, tariff plans).
+  4. Marketing strategy.
+     Promotion channels: digital, offline, partnerships.
+     Mandatory channels involving regulators: government bodies, state-owned enterprises.
+     Content, PR, events, lead generation.
+  5. Sales and distribution strategy.
+     Channels: direct sales, resellers, online channels.
+     Work through ecosystems, government agencies, akimats.
+  6. Execution.
+     KPI and OKR to reach a SOM market size.
+     Milestones and success metrics.
+     Risks and contingency plan.
+  ]]>
+</requirements>
+
+## 🧪 Methodology
+<methodology>
+  <![CDATA[
+  1. Documentary research: analysis of the Kazakhstan Tax Code, "Digitalization" law, procurement regulations.
+  2. Open data analysis: stat.gov.kz, eGov.kz, Ministry of Digital Development, procurement portals.
+  3. Competitor analysis:  tenderplus.kz, goszakup.gov.kz, www.bicotender.ru, tender.adata.kz, kontur.ru kontur.ru, kontur.ru/products/trades, zakupki.kontur.ru
+  4. Qualitative sources: user interviews and reviews, Softline and Directum case studies.
+  5. Quantitative analytics: TAM/SAM/SOM, based on enterprises and government structures.
+  6. Scenario mapping: JTBD scenarios and needs mapping.
+  7. SWOT + risk map: entry points and risk assessment.
+  8. Analysis of vendor websites and documentation  
+  9. Review of government sources: stat.gov.kz, egov.kz, data.egov.kz, “Digital Kazakhstan” publications  
+  10. Collect company, SME and individual entrepreneur data (stat.gov.kz latest releases)  
+  11. Product teardowns: signatures, integrations, APIs, UX mechanics  
+  12. Formalization of JTBD scenarios based on product docs and guides  
+  ]]>
+</methodology>
+
+## 📦 Deliverables
+<artifacts>
+  <![CDATA[
+  1. Research report in PDF (structured by blocks).
+  2. TAM/SAM/SOM market map with figures.
+  3. JTBD maps per segment.
+  4. Competitor matrix (direct, indirect, alternatives).
+  5. Scenarios of "unfair" competitive advantages.
+  6. Promotion channels map (including regulatory channels).
+  7. Recommendations on KPI and GTM metrics.
+  ]]>
+</artifacts>
+
+## 🔗 Links
+<links>
+  <![CDATA[
+ 1. document attached 
+ 2. Ссылки:
+ - stat.gov.kz (Kazakhstan statistics)
+  - egov.kz (electronic government)
+  - goszakup.gov.kz (public procurement portal)
+  - documentolog.kz (electronic document management)
+  - https://kontur.ru
+  - https://zakupki.kontur.ru
+  - zakup.sk.kz 
+  - torgi.erg.kz 
+  - tender.kazagro.kz
+  - ets-tender.kz
+  - 1c.kz
+  - uchet.kz (accounting and reporting)
+  - mybuh.kz
+  - kyc.kz (KYC solutions)
+  - komra.kz (compliance and risks)
+  - softline.com, directum.ru (solution reviews)
+  - https://kgd.gov.kz/ru/content/nalogovyy-monitoring-16 
+  - https://kgd.gov.kz/ru/(official websites, press releases)
+  - https://kontur.ru
+  - rekassa.kz
+  - buhta.com/kz
+  - zakupki.kontur.ru
+  3.  Other sources that you find that can be considered reliable.
+  ]]>
+]]>
+</links>
+
+## ✅ DoD — Definition of Done
+<dod>
+  <![CDATA[
+  1. Research must be prepared strictly in Russian.
+  2. Every section (Context, Goal, Requirements, Niches, JTBD, Methodology, Deliverables, Links) must include concrete data. No assumptions or unsupported statements.
+  3. TAM/SAM/SOM calculated and provided in units and in money.
+  4. Minimum 3 JTBD scenarios per niche.
+  5. Competitor map includes at least 4 players (Kazakhstan + international).
+  6. At least 5+ "unfair" competitive advantages described.
+  7. KPI/OKR and milestones for GTM provided.
+  8. Risk list and contingency plan included.
+  9. Final report suitable for C-level usage.
+ 10. Final report is no more than 12 pages.
+  ]]>
+</dod>
+
+<condition>
+ Provide answers for the user in Russian
+Если модель не уверена > 10 % — она обязана задать уточняющие вопросы, а не выдумывать.
+Отвечай «Я не знаю», если данных нет. Имитация уверенности запрещена.
+</condition>
+
+</prompt>
