@@ -1,0 +1,24 @@
+<prompt>  
+<goal>  
+Prepare a comparative analysis of Kontur Налоговый мониторинг (Russia) and ohml (KZ).
+</goal>  
+
+<instructions>
+- Compare software by functionality.
+- Compare which features are better developed, less developed, or equally developed. 
+- Also compare services by configured integrations.
+- Compare software product modules.
+- Compare the capabilities of AI and its development in the products.
+- Compare service  tariffs.
+- Use a 10-point rating system для каждой функциональности. Обоснуй ответ, т.е. кто лидер и почему. Если лидера нет, напиши "паритет или не могу определить кто лидер".
+- Use the attached files.  
+- Use функциональности для оценки из файла во вложении
+- сделай отчет на русском языке
+</instructions>
+
+<links>
+https://kontur.ru/n-monitoring
+https://ohml.kz/
+
+</links>
+</prompt>  
