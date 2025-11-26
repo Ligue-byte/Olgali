@@ -1,0 +1,65 @@
+<prompt>
+
+## 🏢 Context
+<context>
+  <![CDATA[
+  Company: Kontur is a large corporation with 15,000 employees, market leader in SaaS products for businesses.
+  Specialization: electronic document management and reporting, #1 in the region. It has its own accredited certification center, service of Electronic Document Management Diadoc and EDI between suppliers and retail chains Edi.
+  Client base: 3 million business clients.
+  Task: expand from the Russian market into the Uzbekistan market. The option under consideration is an M&A deal with Doсrobot. 
+  ]]>
+</context>
+
+<goal>  
+  <![CDATA[  
+  - Analyze the possibility of entering the product Kontur.EDI from Russia into the Kazakhstan market https://kontur.ru/edi
+  - Evaluating a Doсrobot's acquisition as a market entry scenario https://docrobot.kz/
+  ]]>  
+</goal>  
+
+## 📌 Research Requirements  
+<requirements>  
+  <![CDATA[  
+  - Consider: government regulation, demand, digital literacy, technology development, competition, infrastructure, investments.  
+  - The research must be maximally evidence-based.  
+  - All conclusions must be based only on data.  
+  - If open data is not found, write: “данные не нашли, в результате не уверен”.  
+  - Each conclusion must include links to data sources.  
+  - The research and final report must be written entirely in Russian language no more than 15 pages.  
+  ]]>  
+</requirements>  
+
+## 🔎 Niches to Analyze  
+<niches>  
+  <![CDATA[  
+Проанализируй возможности для отдельных сегментов в стране:
+- Сети (крупные, средние, мелкие)
+- Поставщики (с делением на по отраслевому принципу, скоропортящихся товаров и товаров с длительным сроком хранения) 
+
+  ]]>  
+</niches> 
+
+## 📦 Deliverables  
+<artifacts>  
+  <![CDATA[  
+  - Niche map + assessment of market development potential scoring (0–100) across 5 blocks  
+  - TAM/SAM/SOM market map with figures calculated and provided in units and in money (legal entities, SMEs, segmented by industry and region)  
+  -  Target audience segments
+  - JTBD maps for each key niche  
+  - Competitor teardown and their shares (functions, signatures, integrations, APIs, pricing, SLA) . Competitor matrix (direct, indirect, alternatives). Competitor map includes at least 4 players 
+  - Regulatory map (requirements, types of electronic signatures, constraints)  
+  - Take a detailed look at Doсrobot: 
+   1) competitor strength (market share, number clients, average growth rate over the last 3-5 years, what customer segment it occupies) 
+   2) Evaluating a competitor's acquisition as a market entry scenario
+  - C-level presentation with findings and entry scenarios.   
+  ]]>  
+</artifacts>  
+
+<methodology> 
+1. Use data for the last 2-5 years for your analysis. 
+2. Use data for 2025 or 2024 to calculate capacity.
+3. Use data on business structure (large, medium, small enterprises, individual entrepreneurs) from official sources as of the beginning of 2025
+4. Use information from bills that came into force recently or in 2026. Analyze how they might impact the electronic signature and the entry of Kontur CA into the Uzbek market.
+5. Use official sources, statistical data, tax data, competitor websites, EDI operators, and other sources you find that can be considered reliable.
+</methodology> 
+</prompt>
