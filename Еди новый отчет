@@ -1,0 +1,70 @@
+<prompt>
+
+## 🏢 Context
+<context>
+  <![CDATA[
+  Company: Kontur is a large corporation with 15,000 employees, market leader in SaaS products for businesses.
+  Specialization: electronic document management and reporting, #1 in the region. 
+   It has its own  service Electronic data interchange (EDI) https://kontur.ru/edi to automate the order and supply chain for retailers, suppliers, and manufacturers.
+  Client base: 3 million business clients.
+  situation: In May 2024, SKB Kontur acquired the Russian portion of Docrobot's business. Docrobot's Kazakhstani division continues to operate independently of the Russian company and is owned by a separate entity.
+  Task: Assess the feasibility of acquiring the local EDI Dokrobot service in Kazakhstan for entering the Kazakh market.
+  ]]>
+</context>
+
+<goal>  
+  <![CDATA[  
+  - Make a decision to purchase a local Kazakh business - the electronic data exchange (EDI) service "Dokrbot" https://docrobot.kz/
+  ]]>  
+</goal>  
+
+## 📌 Research Requirements  
+<requirements>  
+  <![CDATA[  
+  - Focus not on the entire Electronic document management market, but only on Electronic Data Interchange (EDI) in the order acceptance–delivery–document signing chain.
+  - Consider: government regulation, demand, digital literacy, technology development, competition, infrastructure, investments.  
+  - The research must be maximally evidence-based.  
+  - All conclusions must be based only on data.  
+  - If open data is not found, write: “данные не нашли, в результате не уверен”.  
+  - Each conclusion must include links to data sources.  
+  - The research and final report must be written entirely in Russian language no more than 15 pages.  
+  ]]>  
+</requirements>  
+
+## 🔎 Niches to Analyze  
+<niches>  
+  <![CDATA[  
+- Retail chains are divided into large, medium, and small. Classify by number of outlets and turnover.
+- Suppliers divided into wholesalers and manufacturers. Classify by industry.
+  ]]>  
+</niches> 
+
+## 📦 Deliverables  
+<artifacts>  
+  <![CDATA[  
+  1. Niche map + assessment of market development potential scoring (0–100) across 5 blocks  
+  2. TAM/SAM/SOM market map with figures calculated and provided in units and in money (legal entities, SMEs, segmented by industry and region)  
+  3.  Target audience segments.
+  3. Competitor teardown and their shares (functions, signatures, integrations, APIs, pricing, SLA). Сompetitor matrix (direct, indirect, alternatives).
+ Competitor map includes at least 4 players of Docrobot.
+  4. Regulatory map (requirements, constraints)  
+  5. Evaluation of the local Kazakh IT product Dokrobot. 
+- Market share
+- Growth rate
+- Number of clients
+- Segments in which the Dokrobot is a leader
+- Segments that competitors are blocking
+- Potential segments for share growth
+- Potential growth through government regulation and legislation
+ 6. C-level report with findings.
+  ]]>  
+</artifacts>  
+
+<methodology> 
+1. Use data for the last 2-5 years for your analysis. 
+2. Use data for 2025 or 2024 to calculate capacity.
+3. Use data on business structure from official sources as of the beginning of 2025
+4. Use information from draft laws that have recently entered into force or are planned for 2026. 
+5. Use official sources, statistical data, tax data, competitor websites, EDI operators, and other sources you find that can be considered reliable.
+</methodology> 
+</prompt>
