@@ -1,0 +1,63 @@
+<prompt>
+
+## 🏢 Context
+<context>
+  <![CDATA[
+  Company: Kontur is a large corporation, market leader in SaaS products for businesses.
+  It has its own accredited certification center https://ca.kontur.ru/ and Corporate Registration Center -
+а service for issuing and managing electronic signature certificates https://ca.kontur.ru/korporativnim-klientam.
+  CRC сlient's base: 4,5 thousands business clients. The monetization of the CRC consists of the sale of a web service for the accelerated issuance of digital signature certificates at the organization's workplace and the sale of the electronic signatures.
+  Task: analyze the  market  and competitors for Kontur Corporate Registration Center
+  ]]>
+</context>
+
+<goal>  
+  <![CDATA[  
+Analyze the market and key competitors. Think deeply about opportunities that can be exploited to increase market share.
+  ]]>  
+</goal>  
+
+## 📌 Research Requirements  
+<requirements>  
+  <![CDATA[  
+  - Consider: government regulation, demand, digital literacy, technology development, competition, infrastructure, investments.  
+  - The research must be maximally evidence-based.  
+  - All conclusions must be based only on data.  
+  - If open data is not found, write: “данные не нашли, в результате не уверен”.  
+  - Each conclusion must include links to data sources.  
+  - The research and final report must be written entirely in Russian language approximately 10 pages.  
+  ]]>  
+</requirements>  
+
+## 🔎 Niches to Analyze  
+<niches>  
+  <![CDATA[  
+Проанализируй возможности для отдельных сегментов в стране:
+Identify segments. Define customer segments for corporate registration centers independently, based on scenarios, company industries, scale, or other criteria.
+  ]]>  
+</niches> 
+
+## 📦 Deliverables  
+<artifacts>  
+  <![CDATA[  
+  - Regulatory map (requirements, signatures, constraints)  
+  - Niche map + assessment of market development potential scoring (0–100) across 4-5 blocks: Legislative regulation, digital literacy and culture of use, demand, technology, non-consumption market
+  - Target audience segments. Identify segments. Define customer segments for corporate registration centers independently, based on scenarios, company industries, scale, or other criteria.
+  - JTBD maps for each key niche with examples.
+  - Competitor teardown: 
+a) Be sure to analyze key competitors:
+- Saby Corporate Certification Authority https://saby.ru/corporate-uc
+- Kaluga Astral Corporate Registration Authority
+- Osnovanie CA Corporate Registration Authority https://uc-osnovanie.ru/uslugi/poluchit-ep/korporativnym-klientam/
+- Taxcom https://taxcom.ru/centr/upravlenie-elektronnymi-podpisyami/?banner=takskom_-_upravlenie_sertifikatami
+b) What advantages does Kontur's  Corporate Registration Center have over its competitors.
+c) What are the strengths and weaknesses of Kontur and its key competitors?
+Which features or capabilities are better implemented than those of competitors, and which are worse?
+d) How is the pricing system structured. Compare prices and plans Kontur and its key competitors. What are the strengths and weaknesses of Kontur and its key competitors.
+e) Include indirect competitors and alternatives in your competitor map.
+а) Analyze the positions of the important free player Goskey.
+    - Find new opportunities or niches to maintain market share. Use data from market research, demand, trends, legislation, and the competitive environment.
+  - C-level report approximately 10 pages.
+  ]]>  
+</artifacts>  
+</prompt>
