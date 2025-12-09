@@ -4,22 +4,26 @@
 <context>
   <![CDATA[
   Company: Kontur is a large corporation, market leader in SaaS products for businesses.
-  It has its own accredited certification center https://ca.kontur.ru/ and Corporate Registration Center:
-  а service for issuing and managing electronic signature certificates https://ca.kontur.ru/korporativnim-klientam.
-  CRC сlient's base: 4,5 thousands business clients. The monetization of the CRC consists of the sale of a web service for the accelerated issuance of digital signature certificates at the organization's workplace and the sale of the electronic signatures.
-  Task: analyze the  market  and competitors for Kontur Corporate Registration Center
+  It has its own accredited certification center https://ca.kontur.ru/ and  а service for issuing and managing electronic signature certificates https://ca.kontur.ru/korporativnim-klientam.
+  Electronic Signature Certificate Management Service Контур КЦР. 
+ Kontur KCR is a service for managing ES certificates. It allows you to issue electronic signatures (ES) to employees
+ directly in your company's office.
+ CRC сlient's base: 4,5 thousands business clients. The monetization of the CRC consists of the sale of a web service for the accelerated issuance of digital signature certificates at the organization's workplace and the sale of the electronic signatures.
+  Task: Change the current pricing of Kontur KCR (service + individual signature sales).
   ]]>
 </context>
 
 <goal>  
   <![CDATA[  
-Analyze the market and key competitors. Think deeply about opportunities that can be exploited to increase market share for Corporate Registration Center of kontur.
+ 1. Think deeply about opportunities that can be exploited to increase market share for Corporate Registration Center of kontur.
+2. Offer new pricing options (service + individual signature sales) that will help you retain revenue from existing corporate clients and attract new ones, including luring customers from competitors.
   ]]>  
 </goal>  
 
 ## 📌 Research Requirements  
 <requirements>  
   <![CDATA[  
+  - Focus on solutions for issuing and managing certificates for employees within the company.
   - Consider: government regulation, demand, digital literacy, technology development, competition, infrastructure, investments.  
   - The research must be maximally evidence-based.  
   - All conclusions must be based only on data.  
