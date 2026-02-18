@@ -56,10 +56,12 @@ market share) . Competitor matrix (direct, indirect, alternatives). Competitor m
 </artifacts>  
 
 <methodology> 
+  <![CDATA[  
 1. Use data for the last 2-4 years for your analysis.  
 2. Use data for 2025 or 2024 to calculate capacity.
 3. Use information from bills that came into force recently or in 2026. Analyze how they might impact the entry of Kontur CA into the Uzbek market.
 
 4. Use official sources, statistical data, tax data, competitor websites, EDI operators, and other sources you find that can be considered reliable. 
+  ]]>  
 </methodology> 
 </prompt>
