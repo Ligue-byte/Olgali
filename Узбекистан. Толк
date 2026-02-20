@@ -59,10 +59,10 @@ market share) . Competitor matrix (direct, indirect, alternatives). Competitor m
   <![CDATA[  
 1. Use data for the last 2-4 years for your analysis.  
 2. Use data for 2025 or 2024 to calculate capacity.
-3. Use information from bills that came into force recently or in 2026. Analyze how they might impact the entry of Kontur into the Uzbek market.
+3. Use information from bills that came into force recently or in 2026. Analyze how they might impact the entry of Kontur into the market.
 4. Use official sources, statistical data, tax data, competitor websites, EDI operators, and other sources you find that can be considered reliable.
 5. Если есть опора на бенчмарки и допущения, то объяснить какие и почему. 
-6. TAM (Total Addressable Market) – общее число потенциальных клиентов хозяйствующих субъектов (действующие юридические лица + индивидуальные предприниматели в Узбекистане). • SAM (Serviceable Available Market) – достижимый рынок предприятий, которых реально охватить услугами нового ВКС-сервиса в ближайшей перспективе. • SOM (Serviceable Obtainable Market) – потенциальная доля Контур. Толка с учетом интенсивности конкурентной среды, требований и регуляторов внутри страны в перспективе 3 лет.
+6. TAM (Total Addressable Market) – общее число потенциальных клиентов хозяйствующих субъектов (действующие юридические лица + индивидуальные предприниматели). • SAM (Serviceable Available Market) – достижимый рынок предприятий, которых реально охватить услугами нового ВКС-сервиса в ближайшей перспективе. • SOM (Serviceable Obtainable Market) – потенциальная доля Контур. Толка с учетом интенсивности конкурентной среды, требований и регуляторов внутри страны в перспективе 3 лет.
 6. Итоговые данные представь в юнитах (количестве клиентов) и в деньгах - местоной валюте, долларах и рублях.
 7. Не давай данные в таблицах, только текст
   ]]>  
@@ -71,10 +71,12 @@ market share) . Competitor matrix (direct, indirect, alternatives). Competitor m
 
 <Additional Strategic Blocks> 
 <![CDATA[ 
--Анализ требований к локализации данных в Узбекистане 
+-Анализ требований к локализации данных
 -Анализ трансграничной передачи данных 
 -Требуется ли локальное юрлицо 
 -Возможные барьеры для SaaS из РФ 
--Валютные риски -Политические риски ]]> 
+-Валютные риски 
+-Политические риски
+]]> 
 </Additional Strategic Blocks>
 </prompt>
