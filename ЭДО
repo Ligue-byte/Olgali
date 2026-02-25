@@ -132,9 +132,11 @@
 </dod>
 
 <condition>
- Provide answers for the user in Russian
+ <![CDATA[ 
+Provide answers for the user in Russian
 Если модель не уверена > 10 % — она обязана задать уточняющие вопросы, а не выдумывать.
 Отвечай «Я не знаю», если данных нет. Имитация уверенности запрещена.
+  ]]>
 </condition>
 
 </prompt>
