@@ -80,4 +80,10 @@
 -Политические риски
 ]]> 
 </Additional Strategic Blocks>
+
+<condition>
+ <![CDATA[ 
+Начни с проверочного вопроса: для какой страны исследование?
+  ]]>
+</condition>
 </prompt>
