@@ -1,0 +1,83 @@
+<prompt>
+
+## 🏢 Context
+<context>
+  <![CDATA[
+  Company: Kontur is a large corporation with 13,000 employees, market leader in SaaS products for businesses. 
+  Specialization: electronic document management and reporting, #1 in the region. It has its own accredited certification center.
+  Client base: 3 million business clients.
+  Task: expand from the Russian market into the foreign market 
+  ]]>
+</context>
+
+<goal>  
+  <![CDATA[  
+  Проанализировать возможность выхода продукта Контур.Толк https://kontur.ru/talk на локальный рынок foreign country
+  ]]>  
+</goal>  
+
+## 📌 Research Requirements  
+<requirements>  
+  <![CDATA[  
+  - Consider: government regulation, demand, digital literacy, technology development, competition, infrastructure, investments.  
+  - The research must be maximally evidence-based.  
+  - All conclusions must be based only on data.  
+  - If open data is not found, write: “данные не нашли, в результате не уверен”.  
+  - Each conclusion must include links to data sources.  
+  - The research and final report must be written entirely in Russian language no more than 13 pages.   
+  ]]>  
+</requirements>  
+
+## 🔎 Niches to Analyze  
+<niches>  
+  <![CDATA[  
+Проанализируй возможности для отдельных сегментов в стране:
+- Крупные государственные компании и компании с государственным участием
+- Крупный бизнес
+- Средний бизнес
+- Малый бизнес
+- микробизнес и физические лица не бери для анализа, не являются целевым сегментом. 
+  ]]>  
+</niches> 
+
+## 📦 Deliverables  
+<artifacts>  
+  <![CDATA[  
+  - Niche map + assessment of market development potential scoring (0–100) across  blocks:  government regulation and demand, digital literacy, technology development, competition, infrastructure, investments. 
+  - TAM/SAM/SOM market map with figures calculated and provided in units (legal entities, SMEs, segmented by industry and region) and in money
+  -  Target audience segments
+  - JTBD maps for each key niche  
+  - Competitor teardown (functions, advantages, integrations, APIs, pricing, market share) . Competitor matrix (direct, indirect, alternatives). Competitor map includes at least 4 players. 
+  - Regulatory map (requirements, types of electronic signatures, constraints, personal data policy)   
+  - Карта партнеров, которые могут помочь с выходом на рынок foreign country: имеют большую клиентскую базу b2b, компетенции IT, являются интегратором или дистрибютером с развитой сетью. 
+  - C-level report with findings and entry scenarios.    
+  ]]>  
+</artifacts>  
+
+<methodology> 
+  <![CDATA[  
+1. Use data for the last 2-4 years for your analysis.  
+2. Use data for 2025 or 2024 to calculate capacity.
+3. Use information from bills that came into force recently or in 2026. Analyze how they might impact the entry of Kontur into the market.
+4. Use official sources, statistical data, tax data, competitor websites, state portals and other sources you find that can be considered reliable.
+5. Всегда объясняй бенчмарк и прокси показатели. 
+6. TAM (Total Addressable Market) – общее число потенциальных клиентов - субъектов нашего рынка. SAM (Serviceable Available Market) – достижимый рынок субъектов, которых реально охватить услугами нового ВКС-сервиса в ближайшей перспективе. • SOM (Serviceable Obtainable Market) – потенциальная доля Контур. Толка с учетом интенсивности конкурентной среды, требований и регуляторов внутри страны в перспективе 3 лет.
+7. Для опоры используй ARPC в РФ для Толка 60 000, но учитывай уровень жизни и платежеспособности другой страны. 
+8. Итоговые данные представь в юнитах (количестве клиентов) и в деньгах - местоной валюте, долларах и рублях.
+9. Не давай данные в таблицах, только текст
+10. Дополнительно к местной валюте указывай рубли
+  ]]>  
+
+</methodology> 
+
+<Additional Strategic Blocks> 
+<![CDATA[ 
+-Анализ требований к локализации данных
+-Анализ трансграничной передачи данных 
+-Требуется ли локальное юрлицо 
+-Возможные барьеры для SaaS из РФ 
+-Валютные риски 
+-Политические риски
+]]> 
+</Additional Strategic Blocks>
+</prompt>
