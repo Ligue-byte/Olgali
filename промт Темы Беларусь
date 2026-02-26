@@ -1,0 +1,81 @@
+Исследуй для Беларуси
+# Goal Research international markets for expansion of Russian B2B SaaS products. 
+## 🏢 Context Company: a large corporation with 15,000 employees, market leader in SaaS products for businesses. Specialization: electronic document management and reporting, #1 in the region. Client base: 3 million business clients. 
+Task: to expand from the Russian market into other markets.
+# Language of the Final Research The final research report must be written entirely in Russian. 
+❌ It is forbidden to write the final research in English. 
+# Critical Restrictions
+- ❌ Do NOT fabricate data in sections that do not explicitly begin with “Estimated!”.
+- ❌ Do NOT use the local currency of the country in any calculations or output. 
+- ❌ Do NOT skip any sections. 
+- ❌ Do NOT use tables with more than 3 columns. 
+- ✅ All monetary figures must be shown in USD. 
+- ✅ Every numerical figure must have a source link. 
+- ✅ Data must be from 2023–2026 only. 
+- ✅ If reliable data is unavailable, write: “данные не нашли, в результате не уверен”. 
+# Execution Order 
+1. First, ask the user: “For which country should the research be conducted?” 
+2. Do NOT start the research until the user answers.
+3. Execute each section strictly in order.
+4. After completing each section: 
+- Verify compliance with the rules in “How to Work with Data”. 
+- If violations exist, correct the text immediately. 
+- Do NOT write a separate correction block. 
+5. Only after verification proceed to the next section. 
+6. ❌ Do NOT use tables with more than 3 columns. 
+# How to Work with Data 
+1. First, use the predefined list of sources (if provided in the appendix). 
+2. If data is not available there, search reliable public sources.
+3. Under no circumstances use fabricated data in sections without “Estimated!”.
+4. You may use unverified estimates only if the section explicitly starts with “Estimated!”.
+5. Always attach the source link immediately after each numerical value. 
+6. Use only 2023–2026 data. 
+7. If reliable data cannot be found, write: “данные не нашли, в результате не уверен”.
+# Research Structure (Final Output)
+## 1. Economic Scale and Structure Include: 
+- Nominal GDP in USD - GDP per capita in USD 
+- SME share of GDP - Sectoral structure (share of services, IT, industry, etc.) 
+Do NOT calculate or display: 
+- GDP (PPP) 
+- GDP in local currency Every number must include a source. 
+## 2. Addressable Market Size 
+### 2.1 Company Structure (5–8% accuracy) Include: 
+- Total number of companies in the country 
+- Number of large and state-owned companies 
+- Number of micro businesses 
+- Number of digitized small and medium businesses Requirement: 
+- Achieve 5–8% estimation accuracy and explain the estimation logic.
+- Every number must include a source. 
+### 2.2 Market Size in Monetary Terms Include: 
+- From sources! Market size in USD (excluding micro-business). 
+- Estimated! TAM-SAM-SOM in: 
+- USD - number of companies 
+Do NOT calculate or display: 
+- Any data in local currency 
+- Any comparison with the Russian market Requirement: 
+- Show TAM-SAM-SOM formulas and assumptions.
+- Clearly mark which values are “Estimated!”. 
+- Every sourced number must include a link.
+## 3. Currency and Macroeconomic Risks Include: 
+- Currency volatility - Inflation - Restrictions on foreign currency payments
+- Devaluation risk - Estimated! Recommended discount rate in RUB if CAPEX is funded by a Russian company (calculate using standard methodology) 
+Requirements: 
+- Every number must include a source.
+- The discount-rate methodology must be described.
+## 4. Taxation and Regulation Include: 
+- VAT and other taxes on digital services 
+- Data localization requirements
+- Requirement for a local legal entity 
+- Corruption level - Regulatory stability 
+Requirement: 
+- Use official or reputable sources for tax and regulatory items.
+## 5. Digital Infrastructure (Compared to Russia) For each item, compare the target country vs Russia: 
+- Internet penetration 
+- Cloud infrastructure development 
+- ERP/CRM adoption 
+- Business automation level 
+- Digital literacy - Estimated!
+Language used in B2B negotiations in the country 
+Requirements: 
+- Every number must include a source. 
+- Comparison with Russia is mandatory for each point.
