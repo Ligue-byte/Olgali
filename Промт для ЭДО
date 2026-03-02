@@ -1,0 +1,77 @@
+<prompt>
+
+## 🏢 Context
+<context>
+  <![CDATA[
+  Company: Kontur https://kontur.ru/ is a large corporation with 13,000 employees, market leader in SaaS products for businesses. 
+  Specialization: electronic document management and reporting, #1 in the region. It has its own accredited certification center.
+  Client base: 3 million business clients.
+  Task: expand from the Russian market into the foreign market 
+  ]]>
+</context>
+
+<goal>  
+  <![CDATA[  
+1. Conduct a go-to-market strategy research assignment for Kontur.Diadoc https://www.diadoc.ru/ entering a foreign market
+2. Identify what capabilities and "unfair" competitive advantagesare required to implement a go-to-market strategy for entering
+  ]]>  
+</goal>  
+
+## 📌 Research Requirements  
+<requirements>  
+  <![CDATA[  
+1. Consider: government regulation, demand, digital literacy, technology development, competition, infrastructure, investments.  
+2. Regulatory map (requirements, types of electronic signatures, constraints, personal data policy)   
+3. TAM/SAM/SOM market map with figures calculated and provided in units (legal entities, SMEs, segmented by industry and region) and in money.
+4. Target market definition and segmentation.
+5. Consider: government regulation, demand, digital literacy, technology development, competition, infrastructure, investments, capacity отдельных сегментов в стране:
+- Крупные государственные компании и компании с государственным участием
+- Крупный бизнес
+- Средний бизнес
+- Малый бизнес
+- микробизнес и физические лица 
+6. Competitor teardown:
+- Consider: market share, competitor strength, functions, advantages, integrations, pricing
+- Competitor matrix (direct, indirect, alternatives)
+- Competitor map includes at least 4 players. 
+7. Карта партнеров, которые могут помочь с выходом на рынок foreign country: имеют большую клиентскую базу b2b, компетенции IT, являются интегратором или дистрибютером с развитой сетью или имеют большой политический вес.
+8. Оцени риски выхода на рынок и план действий, чтобы не допустить их.
+   ]]>  
+</requirements>  
+
+ 
+ - The research must be maximally evidence-based.  
+  - All conclusions must be based only on data.  
+  - If open data is not found, write: “данные не нашли, в результате не уверен”.  
+  - Use the links from the technical specifications and attached files, then move on to relevant external sources.
+  - Each conclusion must include links to data sources.  
+  - The research and final report must be written entirely in Russian language no more than 13 pages.   
+
+
+## ✅ DoD — Definition of Done
+<dod>
+  <![CDATA[
+  1. Research must be prepared strictly in Russian.
+  2. The research must be maximally evidence-based.  
+  3. All monetary figures must be shown in rubles and USD, indicate the conversion rate
+  4. Every numerical figure must have a source link. 
+  5. Data must be from 2023–2026 only. 
+  6. Use data for 2025 or 2024 to calculate capacity.
+  7. Use Information from bills that came into force recently or in 2026. Analyze how they might impact the entry of Kontur into the market.
+  8. Use official sources, statistical data, tax data, competitor websites, state portals and other sources you find that can be considered reliable.
+  9. If reliable data is unavailable, write: “данные не нашли, в результате не уверен”.
+  10. Sections based on benchmarks and proxy indicators beginning with the word "estimated". Always explain benchmarks and proxy metrics.
+  11. TAM/SAM/SOM calculated and provided in units and in money.
+  12. Figures in local currency are always converted into rubles and dollars.
+  13. Do NOT use tables.
+  14. Use the links in the assignment and the attached documents, then sources that you consider reliable
+  15. C-level report with findings and entry scenarios. 
+  16. The report is no more than 14 pages
+  ]]>
+</dod>
+<condition>
+ <![CDATA[ 
+Начни с проверочного вопроса: для какой страны исследование?
+  ]]>
+</condition>
+</prompt>
