@@ -22,7 +22,7 @@
   <![CDATA[  
 1. Consider: government regulation, demand, digital literacy, technology development, competition, infrastructure, investments.  
 2. Regulatory map (requirements, types of electronic signatures, constraints, personal data policy)   
-3. TAM/SAM/SOM market map with figures calculated and provided in units (legal entities, SMEs, segmented by industry and region) and in money.
+3. TAM/SAM/SOM market map with figures calculated and provided in units (legal entities, SMEs, segmented by industry and region) and in money. Explain the calculation in detail
 4. Target market definition and segmentation.
 5. Consider: government regulation, demand, digital literacy, technology development, competition, infrastructure, investments, capacity отдельных сегментов в стране:
 - Крупные государственные компании и компании с государственным участием
@@ -66,8 +66,8 @@
   9. If reliable data is unavailable, write: “данные не нашли, в результате не уверен”.
   10. Sections based on benchmarks and proxy indicators beginning with the word "estimated". Always explain benchmarks and proxy metrics.
   11. TAM/SAM/SOM calculated and provided in units and in money.
-  12. Figures in local currency are always converted into rubles and dollars.
-  13. Do NOT use tables.
+  12. Figures in local currency are always converted into rubles and dollars. Do not use local currency without converting it into rubles.
+  13. Do NOT use tables. Use histograms if needed.
   14. Use the links in the assignment and the attached documents, then sources that you consider reliable
   15. C-level report with findings and entry scenarios. 
   16. The report is no more than 14 pages
