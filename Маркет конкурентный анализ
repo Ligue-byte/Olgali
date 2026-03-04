@@ -1,0 +1,68 @@
+ <prompt>
+Исследование для Казахстана
+## 🏢 Context
+<context>
+  <![CDATA[
+  Company: Kontur https://kontur.ru/ is a large corporation with 13,000 employees, market leader in SaaS products for businesses. 
+  Specialization: electronic document management and reporting, #1 in the region. It has its own accredited certification center.
+  Client base: 3 million business clients.
+  Task: deep competitor research for expand Kontur.Market https://kontur.ru/market from the Russian market into the foreign market 
+  ]]>
+</context>
+
+## goal
+<goal>  
+  <![CDATA[  
+ In-depth competitor analysis for Kontur Market to enter the Kazakhstan market
+  ]]>  
+</goal>  
+
+## methodology
+<methodology>
+  <![CDATA[   
+ - Competitor teardown:
+a) Be sure to analyze key competitors: 
+- Re:kassa (rekassa.kz) https://rekassa.kz/#ofd-action-popup 
+- webkassa https://webkassa.kz/ 
+- umag https://umag.kz/ 
+- Prosklad,  Мой склад. Уточни являются ли они прямыми конкурентами
+- Другие прямые конкуренты, которых найдешь. 
+b) Оцени: 
+- рыночную долю конкурентов 
+- целевые сегменты 
+- силу конкурента 
+- Какие блоки закрывает конкурент в сравнении с Контур Маркет:
+1. Касса 
+2. Прием платежей 
+3. Передача данных в ОФД 
+4. Учет товаров 
+5. Работа с государственными системами 
+c) What advantages does Kontur's market have over its competitors. What are the strengths and weaknesses of Kontur and its key competitors? Which features or capabilities are better implemented than those of competitors, and which are worse? 
+d) How is the pricing system structured. Compare prices and plans Kontur and its key competitors. What are the strengths and weaknesses of Kontur and its key competitors. 
+e) Include indirect competitors and alternatives in your competitor map. 
+f) Analyze the positions of the important free players if they are.
+g) Find new opportunities or niches to entering a foreign market.
+e) Draw conclusions about how many clients Kontur Market can get and what market share it can occupy in three years.
+  ]]>  
+</methodology>
+
+## requirements
+<requirements>
+  <![CDATA[   
+   1. Research must be prepared strictly in Russian.
+  2. The research must be maximally evidence-based.  
+  3. All monetary figures must be shown in rubles and USD, indicate the conversion rate
+  4. Every numerical figure must have a source link. 
+  5. Data must be from 2023–2026 only. 
+  6.  Use Information from bills that came into force recently or in 2026. Analyze how they might impact the entry of Kontur into the market.
+  8. Use official sources, statistical data, tax data, competitor websites, state portals and other sources you find that can be considered reliable.
+  9. If reliable data is unavailable, write: “данные не нашли, в результате не уверен”.
+  10. Sections based on benchmarks and proxy indicators beginning with the word "estimated". Always explain benchmarks and proxy metrics.
+  11. Figures in local currency are always converted into rubles and dollars. Do not use local currency without converting it into rubles.
+  12. Do NOT use tables. Use histograms if needed.
+  13. Use the links in the assignment and the attached documents, then sources that you consider reliable
+  14. C-level report with findings and entry scenarios. 
+  15. The report is no more than 14 pages
+  16. Eсли используешь прокси показатели, всегда объясняй и делай пометку "оценочно"
+</requirements>
+ </prompt>
