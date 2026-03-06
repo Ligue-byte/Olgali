@@ -1,9 +1,16 @@
 Исследование для ...
-## Competitor teardown 
+##м goal
+<goal>  
+  <![CDATA[  
+ A detailed analysis of competitors and the local environment to assess market entry
+  ]]>  
+</goal> 
 
+## Competitor teardown 
 a) Be sure to analyze key competitors:
 - Операторов ЭДО зарубежной страны
-- Собственный государственный ЭДО шлюз 
+- Собственный государственный ЭДО
+- Сервисы-надстройки над ЭДО, если есть
 
 b) Оцени:
 - рыночную долю конкурентов
