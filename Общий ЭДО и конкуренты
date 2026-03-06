@@ -13,7 +13,7 @@
 <goal>  
   <![CDATA[  
 1. Conduct a go-to-market strategy research assignment for Kontur.Diadoc https://www.diadoc.ru/ entering a foreign market
-2. Identify what capabilities and "unfair" competitive advantagesare required to implement a go-to-market strategy for entering
+2. A detailed analysis of competitors and the local environment to assess market entry
   ]]>  
 </goal>  
 
@@ -41,7 +41,7 @@
 <Competitor teardown> 
 <![CDATA[ 
 a) Be sure to analyze key competitors:
-- Операторов ЭДО зарубежной страны. елси есть
+- Операторов ЭДО зарубежной страны, если есть
 - Собственный государственный ЭДО, если есть
 - сервисы надстройки над ЭДО, если есть
 
