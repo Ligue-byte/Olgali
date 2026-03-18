@@ -1,0 +1,107 @@
+<prompt>
+
+## 🏢 Context
+<context>
+  <![CDATA[
+  Company: Kontur https://kontur.ru/ is a large corporation with 13,000 employees, market leader in SaaS products for businesses. 
+  Specialization: electronic document management and reporting, #1 in the region. It has its own accredited certification center.
+  Client base: 3 million business clients.
+  Task: expand from the Russian market into the foreign market 
+  ]]>
+</context>
+
+<goal>  
+  <![CDATA[  
+ A detailed analysis of competitors and the local environment to assess market entry
+  ]]>  
+</goal>  
+
+## 📌 Research Requirements  
+<requirements>  
+  <![CDATA[  
+1. Consider: government regulation, demand, digital literacy, technology development, competition, infrastructure, investments.  
+2. Regulatory map (requirements, types of electronic signatures, constraints, personal data policy)   
+3. TAM/SAM/SOM market map with figures calculated and provided in units (legal entities, SMEs, segmented by industry and region) and in money. Explain the calculation in detail
+4. Target market definition and segmentation.
+5. Consider: government regulation, demand, digital literacy, technology development, competition, infrastructure, investments, capacity отдельных сегментов в стране:
+- Крупные государственные компании и компании с государственным участием
+- Крупный бизнес
+- Средний бизнес
+- Малый бизнес
+- микробизнес и физические лица 
+6. Competitor teardown 
+7. Карта партнеров, которые могут помочь с выходом на рынок foreign country: имеют большую клиентскую базу b2b, компетенции IT, возможно являются интегратором или дистрибьютером с развитой сетью или имеют большой политический вес.
+8. Оцени риски выхода на рынок и план действий, чтобы не допустить их.
+   ]]>  
+</requirements>  
+
+
+## Competitor teardown 
+<Competitor teardown> 
+<![CDATA[ 
+a) Be sure to analyze key competitors:
+- Российские CDP/MarTech‑платформы действующие в стране выхода  (посомтри на Mindbox
+Live CDP Altcraft, Sendsay, Rees46, CleverData Join, Konnektu и другие, если есть)
+- Локальные отраслевые решения (например, CDP‑платформа Beeline и другие )
+- Глобальные CDP/маркетинговые платформые, если есть присутствие
+
+b) Оцени:
+- рыночную долю конкурентов
+- целевые сегменты 
+- силу конкурента
+- Какие процессы закрывает конкурент в сравнении нашим подуктом
+- какие функции отличают
+
+c) What advantages does наш продукт have over its competitors. What are the strengths and weaknesses of our product and its key competitors? 
+Which features or capabilities are better implemented than those of competitors, and which are worse?
+d) How is the pricing system structured. Compare prices and plans and its key competitors. What are the strengths and weaknesses.
+e) Include indirect competitors and alternatives in your competitor map.
+f) Analyze the positions of the important free players if they are 
+    - Find opportunities or niches to entering. Use data from market research, demand, trends, legislation, and the competitive environment. 
+g) Предположи какую долю рынка в количестве клиентов сможет взять our product на 3 год развития с учетом концентрации конкуренции и готовности страны к ЭДО
+e) требования:
+-  C-level report no more than 12 pages на русском языке 
+- местную валюту используй в расчетах, но всегда обязательно конвертируй  в рубли
+- если используешь прокси показатели, всегда объясняй и делай пометку "оценочно"
+</Additional>
+
+## Additional Strategic Blocks
+<Additional> 
+<![CDATA[ 
+-Анализ требований к локализации данных
+-Анализ трансграничной передачи данных 
+-Требуется ли локальное юрлицо 
+-Возможные барьеры для SaaS из РФ 
+-Валютные риски 
+-Политические риски
+]]> 
+</Competitor teardown>
+
+
+## ✅ DoD — Definition of Done
+<dod>
+  <![CDATA[
+  1. Research must be prepared strictly in Russian.
+  2. The research must be maximally evidence-based.  
+  3. All monetary figures must be shown in rubles and USD, indicate the conversion rate
+  4. Every numerical figure must have a source link. 
+  5. Data must be from 2023–2026 only. 
+  6. Use data for 2025 or 2024 to calculate capacity.
+  7. Use Information from bills that came into force recently or in 2026. Analyze how they might impact the entry of Kontur into the market.
+  8. Use official sources, statistical data, tax data, competitor websites, state portals and other sources you find that can be considered reliable.
+  9. If reliable data is unavailable, write: “данные не нашли, в результате не уверен”.
+  10. Sections based on benchmarks and proxy indicators beginning with the word "estimated". Always explain benchmarks and proxy metrics.
+  11. TAM/SAM/SOM calculated and provided in units and in money.
+  12. местную валюту используй в расчетах, но обязательно конвертируй  в рубли
+  13. Do NOT use tables. Use histograms if needed.
+  14. Use the links in the assignment and the attached documents, then sources that you consider reliable
+  15. C-level report with findings and entry scenarios. 
+  16. The report is no more than 15 pages
+  ]]>
+</dod>
+<condition>
+ <![CDATA[ 
+Начни с проверочного вопроса: для какой страны исследование?
+  ]]>
+</condition>
+</prompt>
